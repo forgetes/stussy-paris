@@ -8,39 +8,34 @@
 
 ---
 
-## 구매 우선순위
-
+## 제품 우선순위
 ### 1순위 — 롱슬리브
-
-| 색상 |
-|------|
-| ⚫ 블랙 |
-| ⚪ 화이트 |
-| 🟢 올리브 |
-| 🟡 겨자 |
-
 ### 2순위 — 반팔
 
-| 색상 |
+## 색상 우선순위
 |------|
-| ⚫ 블랙 |
-| ⚪ 화이트 |
-| 🟢 올리브 |
-| 🟡 겨자 |
+| 남색 |
+| 올리브 |
+| 겨자 |
+| 블랙 |
+|화이트 |
+
+
 
 ---
 
 ## 위치 및 매장 정보
 
-<img src="https://github.com/forgetes/stussy-paris/blob/main/stussy-paris-info.png?raw=true" width="480" />
-
-<img src="https://github.com/forgetes/stussy-paris/blob/main/stussy-paris-location.png?raw=true" width="480" />
+<img src="https://github.com/forgetes/stussy-paris/blob/main/stussy-paris-info.png?raw=true" width="220" /> <img src="https://github.com/forgetes/stussy-paris/blob/main/stussy-paris-location.png?raw=true" width="220" />
 
 ---
 
 ## 상품 정보
-### 1.Long Sleeve
+
+### 1. Long Sleeve
+
 <img src="https://github.com/forgetes/stussy-paris/blob/main/long-black.jpeg?raw=true" width="220" /> <img src="https://github.com/forgetes/stussy-paris/blob/main/long-white.jpeg?raw=true" width="220" />
 
-### t-shirts
+### 2. T-Shirts
+
 <img src="https://github.com/forgetes/stussy-paris/blob/main/short-white.jpeg?raw=true" width="220" /> <img src="https://github.com/forgetes/stussy-paris/blob/main/short1.jpeg?raw=true" width="220" />
