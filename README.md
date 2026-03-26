@@ -1,10 +1,10 @@
-<img width="1292" height="958" alt="image" src="https://github.com/user-attachments/assets/1b913951-483a-4377-b4aa-89f091660493" /># stussy-# 🛍 Stussy Paris
+# stussy-# 🛍 Stussy Paris
 
 ## 구매 방법
 
-매장에서 사진 직접 보여주며 재고 문의
-재고 있으면 **S, M 각 색상 1장씩** 구매
-애매한 상황엔 팀즈로 전화해도 됨
+'''매장에서 직원한테 사진 직접 보여주며 재고 문의
+만약 재고 있으면 **S, M 1장씩** 구매
+애매한 상황엔 팀즈로 전화해도 됨'''
 
 ---
 
@@ -32,4 +32,11 @@
 
 ## 위치 및 매장 정보
 
-> 정보 없음 — 추가 시 업데이트 필요
+> https://github.com/forgetes/stussy-paris/blob/main/stussy-paris-info.png
+> https://github.com/forgetes/stussy-paris/blob/main/stussy-paris-location.png
+
+## 상품 정보
+https://github.com/forgetes/stussy-paris/blob/main/long-black.jpeg
+https://github.com/forgetes/stussy-paris/blob/main/long-white.jpeg
+https://github.com/forgetes/stussy-paris/blob/main/short-white.jpeg
+https://github.com/forgetes/stussy-paris/blob/main/shourt1.jpeg
