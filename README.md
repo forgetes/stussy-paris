@@ -39,7 +39,8 @@
 ---
 
 ## 상품 정보
-
+### 1.Long Sleeve
 <img src="https://github.com/forgetes/stussy-paris/blob/main/long-black.jpeg?raw=true" width="220" /> <img src="https://github.com/forgetes/stussy-paris/blob/main/long-white.jpeg?raw=true" width="220" />
 
-<img src="https://github.com/forgetes/stussy-paris/blob/main/short-white.jpeg?raw=true" width="220" /> <img src="https://github.com/forgetes/stussy-paris/blob/main/shourt1.jpeg?raw=true" width="220" />
+### t-shirts
+<img src="https://github.com/forgetes/stussy-paris/blob/main/short-white.jpeg?raw=true" width="220" /> <img src="https://github.com/forgetes/stussy-paris/blob/main/short1.jpeg?raw=true" width="220" />
